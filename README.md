@@ -6,7 +6,7 @@ Link to the kaggle notebook (https://www.kaggle.com/mattburt07/pubg-data-analysi
 
 ## Skills Demonstrated
 
-This project involved heavy use of Pandas, a Python library for data analysis and manipulation
-Fastai's libraries were used for sopme utility functions
-SK Learn was used for modelling
-SciPy and Matplotlib were used for visualisation
+This project involved heavy use of Pandas, a Python library for data analysis and manipulation  
+Fastai's libraries were used for some utility functions  
+SK Learn was used for the Random Forest models  
+SciPy and Matplotlib were used for visualisation of feature correlations
